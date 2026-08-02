@@ -251,7 +251,7 @@ def render_hero(
     streak: int,
     theme: dict = CREAM,
     now: datetime | None = None,
-    name: str = "Hix-001",
+    name: str = "Harsh",
     tagline: str = "SOFTWARE DEVELOPER  ·  CREATOR",
     location: str = "GITHUB",
     abstract_line1: str = "Building software and shipping open source projects.",
