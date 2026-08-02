@@ -253,7 +253,7 @@ def render_hero(
     now: datetime | None = None,
     name: str = "Harsh",
     tagline: str = "SOFTWARE DEVELOPER  ·  CREATOR",
-    location: str = "GITHUB",
+    location: str = "DELHI",
     abstract_line1: str = "Building software and shipping open source projects.",
     abstract_line2: str = "Focused on modern software engineering and developer tooling.",
 ) -> str:
