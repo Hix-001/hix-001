@@ -100,6 +100,14 @@ HERO_TEMPLATE = Template("""<svg xmlns="http://www.w3.org/2000/svg" width="1200"
   <text class="mono muted" x="48" y="112" font-size="11" letter-spacing="2.5">$tagline</text>
   <text class="serif ink" x="48" y="184" font-size="64" font-weight="500" letter-spacing="-0.8">$name</text>
 
+  <!-- Cool Developer Emblem Badge stamped next to the name -->
+  <g transform="translate(385,138) scale(0.52) rotate(-3 50 50)">
+    <rect x="8" y="8" width="84" height="84" rx="20" fill="$seal"/>
+    <rect x="16" y="16" width="68" height="68" rx="12" fill="none" stroke="$seal_negative" stroke-opacity="0.5" stroke-width="2.5"/>
+    <!-- Code prompt emblem: > _ -->
+    <path d="M32 36 L44 48 L32 60 M52 60 L68 60" stroke="$seal_negative" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
   <text class="mono tan" x="48" y="224" font-size="11" letter-spacing="2.5">ABSTRACT</text>
 
   <!-- Abstract body, two lines -->
@@ -251,8 +259,8 @@ def render_hero(
     streak: int,
     theme: dict = CREAM,
     now: datetime | None = None,
-    name: str = "Harsh",
-    tagline: str = "SOFTWARE DEVELOPER  ·  CREATOR",
+    name: str = "Harsh Jha",
+    tagline: str = "STUDENT   ·   SOFTWARE DEVELOPER",
     location: str = "DELHI",
     abstract_line1: str = "Building software and shipping open source projects.",
     abstract_line2: str = "Focused on modern software engineering and developer tooling.",

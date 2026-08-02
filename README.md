@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./assets/hero.svg#gh-light-mode-only" width="96%" alt="Harsh — Software Developer & Creator" />
-  <img src="./assets/hero-dark.svg#gh-dark-mode-only" width="96%" alt="Harsh — Software Developer & Creator" />
+  <img src="./assets/hero.svg#gh-light-mode-only" width="96%" alt="Harsh Jha — Student & Software Developer" />
+  <img src="./assets/hero-dark.svg#gh-dark-mode-only" width="96%" alt="Harsh Jha — Student & Software Developer" />
 </p>
 
 <p align="center">
