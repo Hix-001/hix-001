@@ -101,7 +101,7 @@ HERO_TEMPLATE = Template("""<svg xmlns="http://www.w3.org/2000/svg" width="1200"
   <text class="serif ink" x="48" y="184" font-size="64" font-weight="500" letter-spacing="-0.8">$name</text>
 
   <!-- Cool Developer Emblem Badge stamped next to the name -->
-  <g transform="translate(385,138) scale(0.52) rotate(-3 50 50)">
+  <g transform="translate(332,138) scale(0.52) rotate(-3 50 50)">
     <rect x="8" y="8" width="84" height="84" rx="20" fill="$seal"/>
     <rect x="16" y="16" width="68" height="68" rx="12" fill="none" stroke="$seal_negative" stroke-opacity="0.5" stroke-width="2.5"/>
     <!-- Code prompt emblem: > _ -->
