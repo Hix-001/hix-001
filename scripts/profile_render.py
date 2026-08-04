@@ -266,7 +266,7 @@ def render_hero(
     abstract_line2: str = "Focused on modern software engineering and developer tooling.",
 ) -> str:
     now = now or datetime.now(timezone.utc)
-    dateline = f"No. {now.month:02d}·{now.day:02d}·{now.year}"
+    dateline = f"Date : {now.day:02d} • {now.month:02d} • {now.year}"
     return HERO_TEMPLATE.substitute(
         **theme,
         dateline=dateline,
