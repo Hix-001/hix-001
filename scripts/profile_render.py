@@ -146,7 +146,7 @@ ACTIVITY_TEMPLATE = Template("""<svg xmlns="http://www.w3.org/2000/svg" width="1
   <rect class="bg" x="0.5" y="0.5" width="1199" height="219" rx="6"/>
 
   <!-- Header -->
-  <text x="48" y="44" class="serif ink" font-size="18" font-weight="500">Figure I. <tspan font-style="italic">Contribution activity, since $since_label.</tspan></text>
+  <text x="48" y="44" class="serif ink" font-size="18" font-weight="500" font-style="italic">Contribution activity, since $since_label.</text>
   <text x="1152" y="44" class="mono muted" font-size="11" letter-spacing="2" text-anchor="end">WEEKLY TOTALS  ·  N = $n_weeks</text>
   <line class="rule" x1="48" y1="58" x2="1152" y2="58"/>
 
