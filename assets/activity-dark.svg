@@ -17,7 +17,7 @@
 
   <!-- Header -->
   <text x="48" y="44" class="serif ink" font-size="18" font-weight="500" font-style="italic">Contribution activity, since Nov 2025.</text>
-  <text x="1152" y="44" class="mono muted" font-size="11" letter-spacing="2" text-anchor="end">WEEKLY TOTALS  ·  N = 36</text>
+  <text x="1152" y="44" class="mono muted" font-size="11" letter-spacing="2" text-anchor="end">WEEKLY TOTALS  ·  N = 37</text>
   <line class="rule" x1="48" y1="58" x2="1152" y2="58"/>
 
   <!-- Grid -->
@@ -32,18 +32,18 @@
       <stop offset="100%" stop-color="#dfe4eb" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <path d="M48.0,178.0 L79.5,180.0 L111.1,180.0 L142.6,161.7 L174.2,180.0 L205.7,180.0 L237.3,180.0 L268.8,180.0 L300.3,180.0 L331.9,180.0 L363.4,180.0 L395.0,180.0 L426.5,175.9 L458.1,180.0 L489.6,180.0 L521.1,180.0 L552.7,180.0 L584.2,180.0 L615.8,96.5 L647.3,169.8 L678.9,180.0 L710.4,165.7 L741.9,180.0 L773.5,180.0 L805.0,180.0 L836.6,180.0 L868.1,151.5 L899.7,180.0 L931.2,178.0 L962.7,178.0 L994.3,151.5 L1025.8,94.4 L1057.4,141.3 L1088.9,131.1 L1120.5,135.2 L1152.0,70.0 L1152.0,180 L48.0,180 Z" fill="url(#inkFill)"/>
-  <path class="line" d="M48.0,178.0 L79.5,180.0 L111.1,180.0 L142.6,161.7 L174.2,180.0 L205.7,180.0 L237.3,180.0 L268.8,180.0 L300.3,180.0 L331.9,180.0 L363.4,180.0 L395.0,180.0 L426.5,175.9 L458.1,180.0 L489.6,180.0 L521.1,180.0 L552.7,180.0 L584.2,180.0 L615.8,96.5 L647.3,169.8 L678.9,180.0 L710.4,165.7 L741.9,180.0 L773.5,180.0 L805.0,180.0 L836.6,180.0 L868.1,151.5 L899.7,180.0 L931.2,178.0 L962.7,178.0 L994.3,151.5 L1025.8,94.4 L1057.4,141.3 L1088.9,131.1 L1120.5,135.2 L1152.0,70.0"/>
+  <path d="M48.0,178.0 L78.7,180.0 L109.3,180.0 L140.0,180.0 L170.7,162.0 L201.3,180.0 L232.0,180.0 L262.7,180.0 L293.3,180.0 L324.0,180.0 L354.7,180.0 L385.3,180.0 L416.0,180.0 L446.7,176.0 L477.3,180.0 L508.0,180.0 L538.7,180.0 L569.3,180.0 L600.0,180.0 L630.7,98.0 L661.3,170.0 L692.0,180.0 L722.7,166.0 L753.3,180.0 L784.0,180.0 L814.7,180.0 L845.3,166.0 L876.0,166.0 L906.7,180.0 L937.3,178.0 L968.0,178.0 L998.7,142.0 L1029.3,96.0 L1060.0,148.0 L1090.7,128.0 L1121.3,140.0 L1152.0,70.0 L1152.0,180 L48.0,180 Z" fill="url(#inkFill)"/>
+  <path class="line" d="M48.0,178.0 L78.7,180.0 L109.3,180.0 L140.0,180.0 L170.7,162.0 L201.3,180.0 L232.0,180.0 L262.7,180.0 L293.3,180.0 L324.0,180.0 L354.7,180.0 L385.3,180.0 L416.0,180.0 L446.7,176.0 L477.3,180.0 L508.0,180.0 L538.7,180.0 L569.3,180.0 L600.0,180.0 L630.7,98.0 L661.3,170.0 L692.0,180.0 L722.7,166.0 L753.3,180.0 L784.0,180.0 L814.7,180.0 L845.3,166.0 L876.0,166.0 L906.7,180.0 L937.3,178.0 L968.0,178.0 L998.7,142.0 L1029.3,96.0 L1060.0,148.0 L1090.7,128.0 L1121.3,140.0 L1152.0,70.0"/>
 
-  <circle class="dot" cx="1025.8" cy="94.4" r="2.5"/>
-  <circle class="dot" cx="615.8" cy="96.5" r="2.5"/>
+  <circle class="dot" cx="1029.3" cy="96.0" r="2.5"/>
+  <circle class="dot" cx="630.7" cy="98.0" r="2.5"/>
   <circle class="dot" cx="1152.0" cy="70.0" r="3.5" stroke="#0a0d13" stroke-width="2"/>
 
   <!-- X axis -->
   <text x="48" y="200" class="mono sub-tan" font-size="10" letter-spacing="1">NOV</text>
   <text x="232" y="200" class="mono sub-tan" font-size="10" letter-spacing="1">JAN</text>
   <text x="416" y="200" class="mono sub-tan" font-size="10" letter-spacing="1">FEB</text>
-  <text x="600" y="200" class="mono sub-tan" font-size="10" letter-spacing="1" text-anchor="middle">APR</text>
+  <text x="600" y="200" class="mono sub-tan" font-size="10" letter-spacing="1" text-anchor="middle">MAR</text>
   <text x="784" y="200" class="mono sub-tan" font-size="10" letter-spacing="1">MAY</text>
   <text x="968" y="200" class="mono sub-tan" font-size="10" letter-spacing="1">JUN</text>
   <text x="1152" y="200" class="mono sub-tan" font-size="10" letter-spacing="1" text-anchor="end">TODAY</text>
